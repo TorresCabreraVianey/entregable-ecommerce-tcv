@@ -3,7 +3,7 @@ const Category = require('./Category')
 const Product = require('./Product')
 const Cart = require('./Cart')
 const Purchase = require('./Purchase')
-const ProductImg = require('./Productimg')
+const ProductImg = require('./ProductImg')
 
 
 
